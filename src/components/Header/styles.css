@@ -1,0 +1,11 @@
+header#main-header{
+  height: 60px;
+  widows: 100%;
+  font-size: 30px;
+  font-weight: lighter;
+  font-family: 'Livvic', sans-serif;
+  color: wheat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
