@@ -1,4 +1,4 @@
-Usufruindo da API pelo Axios, exibindo informações na tela, usando como exemplo, infos sobre serviços da Universidade Federal de Pelotas! Interface construída toda em React!
+Enjoying the API through Axios, displaying information on the screen, using for example information about services from the Federal University of Pelotas! Interface all built in React!
 
 ![Screen Shot 2019-08-25 at 21 35 34](https://user-images.githubusercontent.com/39891863/63658361-61ad4f00-c780-11e9-8e82-f939ee31f4ce.png)
 
